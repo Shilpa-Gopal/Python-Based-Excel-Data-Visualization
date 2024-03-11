@@ -17,3 +17,5 @@ This project aims to streamline the process of generating interactive and insigh
 - Automate repetitive tasks and workflows using Python scripts to streamline data processing, analysis, and reporting tasks within Excel, improving productivity and efficiency.
 - Compare two Excel files to identify differences.
 
+
+## --- Installation processing will be updated soon ---
