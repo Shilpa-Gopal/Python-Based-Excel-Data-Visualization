@@ -1,7 +1,13 @@
+
 # Python-Based-Excel-Data-Visualization
+
 This project aims to streamline the process of generating interactive and insightful visualizations directly within Excel using the power of Python programming.
 
 ## Features
+
+- convert_csv_and_txt_to_excel.ipynb
+  Description: The "convert_csv_and_txt_to_excel.ipynb" notebook is a versatile tool designed to facilitate the conversion of data from various formats into Excel files. Specifically, it supports the conversion of CSV (Comma Separated Values) and text files, as well as SQL (Structured Query Language) data from tables into Excel format.
+
 - Create, update, and delete tables, rows, and columns in Excel.
 - Add titles, headings, descriptions, and charts to enhance data presentation.
 - Visualize multiple tables side by side for comparative analysis.
@@ -18,4 +24,20 @@ This project aims to streamline the process of generating interactive and insigh
 - Compare two Excel files to identify differences.
 
 
-## --- Installation processing will be updated soon ---
+## Installation Instructions
+- Installing Python, Pandas, and Required Packages:
+  - Step 1: Install Python 3 from the official website.
+  - Step 2: Install the required packages using pip:
+    ```
+    pip install pandas
+    ```
+
+- Installing Jupyter Notebook from Anaconda or VS Code:
+  - Step 1: Download and install Anaconda from the official website.
+  - Step 2: Open Anaconda Navigator and install Jupyter Notebook.
+    - Alternatively, if you're using VS Code, install the Python extension and open Jupyter Notebooks from within the editor.
+
+- Rechecking the File Paths in the Notebook:
+  - Ensure that all file paths specified in the notebook are correct.
+  - Double-check file paths for data files, libraries, and any other resources used in the notebook.
+
