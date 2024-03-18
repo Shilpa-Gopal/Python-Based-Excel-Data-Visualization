@@ -26,7 +26,7 @@ This project aims to streamline the process of generating interactive and insigh
 
 ## Installation Instructions
 - Installing Python, Pandas, and Required Packages:
-  - Step 1: Install Python 3 from the official website.
+  - Step 1: Install Python3 or Python from the official website.
   - Step 2: Install the required packages using pip:
     ```
     pip install pandas
@@ -37,7 +37,7 @@ This project aims to streamline the process of generating interactive and insigh
   - Step 2: Open Anaconda Navigator and install Jupyter Notebook.
     - Alternatively, if you're using VS Code, install the Python extension and open Jupyter Notebooks from within the editor.
 
-- Rechecking the File Paths in the Notebook:
+- Rechecking the File Paths in the Notebook before running:
   - Ensure that all file paths specified in the notebook are correct.
   - Double-check file paths for data files, libraries, and any other resources used in the notebook.
 
