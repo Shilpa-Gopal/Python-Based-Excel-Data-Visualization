@@ -7,7 +7,8 @@ This project aims to streamline the process of generating interactive and insigh
 
 - convert_csv_and_txt_to_excel.ipynb
   Description: The "convert_csv_and_txt_to_excel.ipynb" notebook is a versatile tool designed to facilitate the conversion of data from various formats into Excel files. Specifically, it supports the conversion of CSV (Comma Separated Values) and text files, as well as SQL (Structured Query Language) data from tables into Excel format.
-
+- BasicOfPandas.ipynb
+  Description: Basic Of Pandas functionalities
 - Create, update, and delete tables, rows, and columns in Excel.
 - Add titles, headings, descriptions, and charts to enhance data presentation.
 - Visualize multiple tables side by side for comparative analysis.
