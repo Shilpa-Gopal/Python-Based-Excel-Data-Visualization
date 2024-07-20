@@ -3,6 +3,7 @@
 
 This project aims to streamline the process of generating interactive and insightful visualizations directly within Excel using the power of Python programming.
 
+
 ## Features
 
 - convert_csv_and_txt_to_excel.ipynb
@@ -38,6 +39,7 @@ This project aims to streamline the process of generating interactive and insigh
   - Step 1: Download and install Anaconda from the official website.
   - Step 2: Open Anaconda Navigator and install Jupyter Notebook.
     - Alternatively, if you're using VS Code, install the Python extension and open Jupyter Notebooks from within the editor.
+
 
 - Rechecking the File Paths in the Notebook before running:
   
